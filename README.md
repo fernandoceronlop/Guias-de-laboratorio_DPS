@@ -1,4 +1,4 @@
-### Guias de laboratorio DPS G05L
+### Guias de laboratorio DPS G06L
 Guias de laboratorio para todo el ciclo II 2022
 - Guia #01 - 100% avance
 - Guia #02 - 100% avance
